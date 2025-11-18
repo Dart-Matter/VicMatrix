@@ -1,0 +1,7 @@
+acme.exe --cpu 6502 --format cbm --outfile out/matrixvic20.prg matrix_vic20.asm
+  With only 3K expander enabled add -DMEM3K=1
+  With 8K or larger expander enabled add -DMEM8K=1
+  For PAL system add -DPAL=1
+acme.exe --cpu 6502 --format cbm --outfile out/matrixc64.prg matrix_c64.asm
+acme.exe --cpu 6502 --format cbm --outfile out/matrixc128.prg matrix_c128.asm
+acme.exe --cpu 6502 --format cbm --outfile out/matrixc16.prg matrix_c16.asm
