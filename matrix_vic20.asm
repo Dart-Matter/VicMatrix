@@ -1,10 +1,10 @@
 
 ;------------------------------------------------------------------------------
 ;
-; Copyright 1983, 2023 Rodney Rushing
+; Copyright 2024-2025 Rodney Rushing
 ;
 ;
-; This file is part of MATRIX for Commodore Color Computers.
+; This file is part of VicMatrix for Commodore Color Computers.
 ;
 ; MATRIX is free software: you can redistribute it and/or modify it under the
 ; terms of the GNU General Public License as published by the Free Software
